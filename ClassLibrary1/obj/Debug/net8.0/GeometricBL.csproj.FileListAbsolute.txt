@@ -1,0 +1,11 @@
+D:\Genesis\practice\GeometricApp\ClassLibrary1\bin\Debug\net8.0\GeometricBL.deps.json
+D:\Genesis\practice\GeometricApp\ClassLibrary1\bin\Debug\net8.0\GeometricBL.dll
+D:\Genesis\practice\GeometricApp\ClassLibrary1\bin\Debug\net8.0\GeometricBL.pdb
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\GeometricBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\GeometricBL.AssemblyInfoInputs.cache
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\GeometricBL.AssemblyInfo.cs
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\GeometricBL.csproj.CoreCompileInputs.cache
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\GeometricBL.dll
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\refint\GeometricBL.dll
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\GeometricBL.pdb
+D:\Genesis\practice\GeometricApp\ClassLibrary1\obj\Debug\net8.0\ref\GeometricBL.dll
